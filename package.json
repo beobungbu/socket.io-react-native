@@ -1,6 +1,6 @@
 {
-  "name": "socket.io-client",
-  "version": "2.2.0",
+  "name": "socket.io-react-native",
+  "version": "2.2.1",
   "keywords": [
     "realtime",
     "framework",
@@ -82,7 +82,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Automattic/socket.io-client.git"
+    "url": "https://github.com/beobungbu/socket.io-react-native.git"
   },
   "license": "MIT"
 }
